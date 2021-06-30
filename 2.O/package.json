@@ -1,0 +1,13 @@
+{
+  "name": "2.o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "old.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
