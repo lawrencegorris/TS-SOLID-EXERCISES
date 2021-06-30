@@ -1,0 +1,13 @@
+{
+  "name": "1.s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "new.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
